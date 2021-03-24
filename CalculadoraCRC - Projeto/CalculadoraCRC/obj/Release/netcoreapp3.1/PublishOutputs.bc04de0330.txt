@@ -1,0 +1,5 @@
+C:\Users\felip\Desktop\CalculadoraCRC.exe
+C:\Users\felip\Desktop\CalculadoraCRC.dll
+C:\Users\felip\Desktop\CalculadoraCRC.deps.json
+C:\Users\felip\Desktop\CalculadoraCRC.runtimeconfig.json
+C:\Users\felip\Desktop\CalculadoraCRC.pdb

@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\bin\Release\netcoreapp3.1\CalculadoraCRC.exe
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\bin\Release\netcoreapp3.1\CalculadoraCRC.deps.json
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\bin\Release\netcoreapp3.1\CalculadoraCRC.runtimeconfig.json
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\bin\Release\netcoreapp3.1\CalculadoraCRC.runtimeconfig.dev.json
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\bin\Release\netcoreapp3.1\CalculadoraCRC.dll
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\bin\Release\netcoreapp3.1\CalculadoraCRC.pdb
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.vbprojAssemblyReference.cache
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.Calculadora.resources
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.vbproj.GenerateResource.cache
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.AssemblyInfo.vb
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.vbproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.dll
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.pdb
+C:\Users\felip\source\repos\CalculadoraCRC\CalculadoraCRC\obj\Release\netcoreapp3.1\CalculadoraCRC.genruntimeconfig.cache

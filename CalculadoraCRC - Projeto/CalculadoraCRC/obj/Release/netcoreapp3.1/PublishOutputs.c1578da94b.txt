@@ -1,0 +1,5 @@
+D:\Projects\Dotnet\CalculadoraCRC.exe
+D:\Projects\Dotnet\CalculadoraCRC.dll
+D:\Projects\Dotnet\CalculadoraCRC.deps.json
+D:\Projects\Dotnet\CalculadoraCRC.runtimeconfig.json
+D:\Projects\Dotnet\CalculadoraCRC.pdb
